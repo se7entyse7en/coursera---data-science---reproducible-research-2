@@ -1,5 +1,7 @@
 ---
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 # Exploratory analysis on the impact of weather events to public health and economics in the United States from 1950 to 2011
 ### *Lou Marvin Caraig*
